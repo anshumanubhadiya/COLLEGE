@@ -1,0 +1,8 @@
+body{
+    background-image: url(bc.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-image: url('bc.jpg');
+background-size: 200%;
+}
